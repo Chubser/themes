@@ -1,0 +1,38 @@
+[colors]
+foreground = "0xeeecec"
+background = "0x01180f"
+cursor = "0x39ff8d"
+selection = "0x39ff8d"
+selection_background = "0x3900f9"
+exposed_selection_background = "0x035fc1"
+
+# Normal colors
+[colors.normal]
+black = "0x0b0c1a"
+red = "0xff3a3a"
+green = "0x52ff13"
+yellow = "0x81f240"
+blue = "0x1383fb"
+magenta = "0xc692f0"
+cyan = "0x81f900"
+white = "0x37fbfe"
+
+# Bright colors
+[colors.bright]
+black = "0x636363"
+red = "0xff5918"
+green = "0x7fff10"
+yellow = "0xa3e012"
+blue = "0x327e9f"
+magenta = "0x7089ff"
+cyan = "0x6b77ff"
+white = "0xf86700"
+
+# Indexed colors
+[colors.indexed]
+color10 = "0x73d8b7"
+color11 = "0xfb5ad1"
+color12 = "0x38fd37"
+color13 = "0xa23c7b"
+color14 = "0xd13ed8"
+color15 = "0x5cf400"
